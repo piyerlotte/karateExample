@@ -1,0 +1,13 @@
+{
+  "scenario_name": "SCENARIO",
+  "enabled": true,
+  "testrail_enabled": false,
+  "execute_mode": "AUTOMATED",
+  "source_file": "com/testinium/TestiniumDemo.java",
+  "project_id": 6354,
+  "plans": [
+    1
+  ],
+  "java_test_class": "com.testinium.TestiniumDemo",
+  "java_test_methods": "testSearch"
+}

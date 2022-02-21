@@ -1,0 +1,16 @@
+{
+  "has_parameterized_class": false,
+  "scenario_name": "postmanSenaryosu",
+  "type": "SELENIUM",
+  "testrail_enabled": false,
+  "childs": [
+  ],
+  "enabled": true,
+  "source_file": "ProductPage.spec",
+  "java_test_class": "ProductPage",
+  "deleted": false,
+  "execute_mode": "AUTOMATED",
+  "parameterized": false,
+  "plans": [
+  ]
+}

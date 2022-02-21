@@ -1,0 +1,10 @@
+{
+  "project_name": "postmanOlusturuldu",
+  "description": "TEST",
+  "enabled": true,
+  "repository_path": "EndToEndDeneme",
+  "test_framework": "SELENIUM",
+  "test_file_type": "SELENIUM_JAVA",
+  "test_runner_tool": "MAVEN",
+  "company_id": 6289
+}

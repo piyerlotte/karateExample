@@ -1,0 +1,27 @@
+{
+  "plan_name": "PostmanPlan",
+  "group_plan": false,
+  "enabled": false,
+  "plan_parallel_test_limit": 10,
+  "period": {
+    "period_type": "MANUAL",
+    "scheduled_days_of_week": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      1
+    ],
+    "repeat_period": 60
+  },
+  "company_id": 6289,
+  "failed_test_retry_count": 0,
+  "screenshots_enabled": true,
+  "video_enabled": false,
+  "environments": [],
+  "max_step_duration": 120,
+  "performance_data_enabled": false,
+  "resolutions": {}
+}
